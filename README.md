@@ -43,8 +43,10 @@ php artisan key:generate
 php artisan migrate
 ```
 
-### 6. **(Opsional) Seed Data Leads**
-- Anda bisa menambahkan data leads secara manual di database atau menggunakan seeder.
+### 6. ** Seed Data Leads**
+```
+php artisan db:seed
+```
 
 ### 7. **Jalankan Server**
 ```
