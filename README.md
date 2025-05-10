@@ -43,7 +43,7 @@ php artisan key:generate
 php artisan migrate
 ```
 
-### 6. ** Seed Data Leads**
+### 6. **Seed Data Leads**
 ```
 php artisan db:seed
 ```
