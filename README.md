@@ -10,7 +10,6 @@ Aplikasi web untuk mengelola, memfilter, dan men-generate report data leads seca
 - **Simpan Template Report** (kombinasi filter & field).
 - **Lihat, Hapus, dan Gunakan Template Report** yang sudah pernah dibuat.
 - **Export Report** ke PDF dan Excel.
-- **Tampilan modern, responsif, dan mudah digunakan.**
 
 ---
 
